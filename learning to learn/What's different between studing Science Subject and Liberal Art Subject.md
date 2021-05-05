@@ -1,6 +1,8 @@
-\## til Learning to Learn
+Q:
 
 What's different between studying Science Subject and Liberal Art Subject?
+
+A:
 
 Contrast to **science subject**, when studying **liberal art** subject, students might just need to **memory** the material to get a good grade.
 

@@ -1,10 +1,13 @@
 Question
+
 When do I NOT build my own data structure(DS)
 
-SA
+ShortAns:
+
 When I have the primitive DS can use _in the given context_
 
-LA
+LongAns:
+
 Story:
 I use JS set DS to prevent re-entry a certain function to avoid multiple calls to performance.mark & performance.measure.
 
